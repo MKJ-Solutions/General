@@ -1,0 +1,2 @@
+1.General tool to automate a repeated process.(Loblaws)
+2.Automatic closure of a project, when it's past the completion date.

@@ -1,0 +1,10 @@
+Company Name: MKJ Solutions
+Company Members: Miles, Johnson, Kyong-Tae
+
+----------Definition----------
+closed - no further updates, additions or changes can be made to a project.
+completion date - a date, agreed upon all members, to complete a project.
+----------Company Policy----------
+1.When a project is not done within the completion date, project is closed permanently.
+2.When a project is completed within the completion date, company members shall go have a dinner
+  together within the week of the completion date.
